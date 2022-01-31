@@ -1,0 +1,36 @@
+/* CSS - Space Invaders
+   Auteur : Brieuc H. */
+
+
+/* Boîte Intergalactique */
+.container{
+	padding-left: 15px;
+	padding-right: 15px;
+	
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Changement de couleur */
+.container:hover div[class*="col-"]{
+	background-color: orange;
+	color: orange;
+}
+
+/* Space Invader */
+[class*="col-"]{
+	background-color: lightgreen;
+	line-height: 40px;
+	text-align: center;
+	color: lightgreen;
+}
+
+/* Couleur de fond */
+.row{
+	background-color: black;
+}
+
+/* Signature */
+#blackRow{
+	background-color: black;
+}
