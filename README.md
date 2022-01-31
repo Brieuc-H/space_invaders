@@ -1,5 +1,5 @@
 # space_invaders
-Conception HTML/CSS d'un pixel art Space Invader responsive via Bootstrap
+Conception HTML/CSS d'un pixel art Space Invader responsive via Bootstrap.
 Auteur : Brieuc H.
 
 Ce repository contient l'élaboration d'un pixel art Space Invaders réalisé via HTML/CSS et Boostrap.
